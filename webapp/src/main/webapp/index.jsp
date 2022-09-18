@@ -1,2 +1,10 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+Hi,hello, Welcome to the Repotech,
+The participations are
+cc
+satish
+govindh
+prasad
+gangadhar
+samba
+srikanth
 
